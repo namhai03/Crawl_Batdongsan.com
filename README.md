@@ -5,8 +5,9 @@ This project demonstrates how to crawl real estate data from [Batdongsan.com](ht
 ## Overview
 
 Crawling real estate data can provide insights into market trends, pricing, and availability. This project uses Python and libraries such as `Selenium`,`pandas` to scrape data from Batdongsan.com.  
-I have tested Hung Yen real estate. If you need to change the area, please follow the Instructions.
+I have tested Hung Yen real estate. If you need to change the area, please follow the Instructions.  
 
+You can also access my analysis of the data [here]().
 ### Features
 
 - Extract the following property details from Batdongsan.com:
